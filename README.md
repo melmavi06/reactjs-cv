@@ -27,4 +27,4 @@ Bu projeyi kendi bilgisayarınızda çalıştırmak için şu adımları izleyin
 ### Kurulum ve Çalıştırma
 1. Bu repoyu klonlayın:
    ```bash
-   git clone https://github.com/kullanici-adiniz/melike-mavili-cv.git
+   git clone https://github.com/kullanici-adiniz/reactjs-cv.git
